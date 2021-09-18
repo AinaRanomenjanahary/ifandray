@@ -1,0 +1,32 @@
+
+body{
+    margin: 0;
+    font-size: 16px;
+    background-color: #009688;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 400;
+}
+.App{
+    text-align: center;
+}
+.App h1{
+    font-size: 36px;
+    line-height: 42px;
+    color:#009688;
+}
+.App h3{
+    color:#003C36;
+}
+.custom{
+    max-width: 625px;
+    background-color: #ffffff;
+    margin: 92px auto;
+    padding:95px;
+    border-radius: 20px;
+    animation: fadeInRight 1s ease;
+}
+.App h2{
+    color: saddlebrown;
+}
+
+    
